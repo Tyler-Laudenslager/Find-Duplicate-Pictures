@@ -39,8 +39,9 @@ if __name__ == "__main__":
         for duplicate_file, locations in find_duplicates(sys.argv[1]).items():
             if len(locations) > 1:
                 print("="*20)
-                print(duplicate_file)
+                print(f"Duplicate File: {duplicate_file}")
                 print("-"*20)
                 print("Found in Locations Listed Below")
                 print(*['\t'+x for x in locations], sep="\n")
                 print("="*20)
+
