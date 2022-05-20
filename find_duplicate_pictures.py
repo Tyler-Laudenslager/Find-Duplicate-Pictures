@@ -44,6 +44,6 @@ if __name__ == "__main__":
                 print(f"Duplicate File: {duplicate_file}")
                 print("-"*40)
                 print("Locations Found:")
-                print(*['\t'+x for x in locations], sep="\n")
+                print(*['\t'+x for x in sorted(locations, key=lambda x : len(x))], sep="\n")
 
                 
