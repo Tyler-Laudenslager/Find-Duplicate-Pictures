@@ -5,7 +5,6 @@
 #Purpose: Detect Duplicate Pictures Across A Directory - Recursive Search
 #
 
-
 import os
 import sys
 
@@ -45,6 +44,3 @@ if __name__ == "__main__":
                 print("-"*40)
                 print("Locations Found:")
                 print(*['\t'+x for x in locations], sep="\n")
-
-
-                
