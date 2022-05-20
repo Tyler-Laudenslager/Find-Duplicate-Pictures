@@ -3,7 +3,7 @@
 #
 #Date: 5/19/2022
 #Purpose: Detect Duplicate Pictures Across A Directory - Recursive Search
-#Note: Does not delete/modify any files
+#Note: No deletion / modification of any files on your system
 #
 
 import os
