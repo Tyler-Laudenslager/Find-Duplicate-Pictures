@@ -17,7 +17,7 @@ def find_duplicates(path) -> dict():
                 if file_name in all_files:
                     all_files[file_name] += locations
                 else:
-                    all_files[file_name] = [*locations]
+                    all_files[file_name] = locations
         else:
             item = item.lower()
             #https://stackoverflow.com/questions/889333/how-to-check-if-a-file-is-a-valid-image-file#902779
