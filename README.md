@@ -1,4 +1,4 @@
 # Find-Duplicate-Pictures
-Find Duplicate Pictures Recursively in a Directory
+1. Find Duplicate Pictures Recursively in a Directory
 
-Find and Remove Duplicate Pictures Recursively in a Directory
+2. Find and Remove Duplicate Pictures Recursively in a Directory
