@@ -1,0 +1,21 @@
+Searching Location -> C:/test_pictures
+
+Duplicate Files Found -> 2 Files
+
+Duplicate File: test_picture_1.bmp
+----------------------------------------
+Locations Found:
+	C:/test_pictures
+	C:/test_pictures/test-1
+	C:/test_pictures/test-1 - Copy
+	C:/test_pictures/test-1 - Copy (2)
+	C:/test_pictures/test-1 - Copy (3)
+
+Duplicate File: test_picture_2.bmp
+----------------------------------------
+Locations Found:
+	C:/test_pictures
+	C:/test_pictures/test-1
+	C:/test_pictures/test-1 - Copy
+	C:/test_pictures/test-1 - Copy (2)
+	C:/test_pictures/test-1 - Copy (3)
